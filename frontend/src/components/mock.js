@@ -9,7 +9,7 @@ export const personalInfo = {
   phone: "+91-9650798420",
   linkedin: "https://linkedin.com/in/justin-johnson",
   resumeLink: "https://drive.google.com/file/d/1VI7rZADjaS_LLmDFPKmQPCscRsbFqMjN/view?usp=sharing",
-  headshotUrl: "https://drive.google.com/uc?export=view&id=1VVFuSDh8fu0zYisxLFl4C6KMC1z-rQbo"
+  headshotUrl: "https://lh3.googleusercontent.com/d/1VVFuSDh8fu0zYisxLFl4C6KMC1z-rQbo"
 };
 
 export const experience = [
